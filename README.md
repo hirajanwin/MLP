@@ -1,1 +1,1 @@
-Trying to hand-code a MLP. We'll see.
+Hand coded MLP with variable number of layers and nodes per layer
